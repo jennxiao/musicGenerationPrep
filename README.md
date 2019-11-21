@@ -19,5 +19,6 @@ Week 4 - Review and Prep for a Showcase
 Write about yourself here!
 
 **Alma Pineda**
+
 Hi there! I am a fourth-year student at UC Berkeley studying Data Science and Applied Mathematics. The inspiration for this notebook came from our mututal love for music and the interest in ML applications that were more creative.
 Website: *www.alma-pineda.com*
