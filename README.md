@@ -15,10 +15,10 @@ This repo contains teaching materials for introductory ML topics and some assign
 
 **Week 4** - Review and Prep for a Showcase
 
-
 ### About Us
 **Jennifer Xiao**
-Write about yourself here!
+
+Hello hello! I'm a third-year EECS student at UC Berkeley. I have an obsession with making Spotify playlists and wanted to combinethat love of music with my CS <3 Website: *www.jenifexiao.me*
 
 **Alma Pineda**
 
