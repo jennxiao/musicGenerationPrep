@@ -51,4 +51,3 @@ All links below lead to the homework assignments assigned each week, designed to
 [Week Three](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Falmapineda%2FmusicGenerationPrep&urlpath=tree%2FmusicGenerationPrep%2F%2Fhw%2FMusic%2520Generation%2520Week%25203%2520.ipynb)
 
 [Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Falmapineda%2FmusicGenerationPrep&urlpath=tree%2FmusicGenerationPrep%2F%2Fhw%2FMusicGenerationProject.ipynb)
->>>>>>> fc2d0779c9572adca843b412697b484d2d926669
